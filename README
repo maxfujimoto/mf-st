@@ -3,6 +3,14 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Patches
+-------
+st-alpha-0.8.2.diff                  st-scrollback-mouse-20191024-a2c479c.diff
+st-boxdraw_v2-0.8.3.diff             st-scrollback-mouse-altscreen-20200416-5703aa0.diff
+st-clipboard-0.8.3.diff              st-xresources-20200604-9ba7ecf.diff
+st-scrollback-20210507-4536f46.diff
+
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
