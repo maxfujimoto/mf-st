@@ -1,0 +1,16 @@
+76c76
+< const int boxdraw = 0;
+---
+> const int boxdraw = 1;
+80c80
+< const int boxdraw_braille = 0;
+---
+> const int boxdraw_braille = 1;
+109c109
+< float alpha = 0.8, alphaUnfocused = 0.6;
+---
+> float alpha = 0.87, alphaUnfocused = 0.73;
+151c151
+< unsigned int bg = 17, bgUnfocused = 16;
+---
+> unsigned int bg = 16, bgUnfocused = 16;
